@@ -1,4 +1,5 @@
 ### Hi there 👋
+I am a systems and computer engineer with expertise in software development, project management, and systems architecture. I have a strong command of the Java and Python programming languages, as well as the Linux and Windows operating systems. I am passionate about creating useful and engaging products. I am known for my teamwork and problem-solving skills.
 
 <!--
 **diegnghtmr011/diegnghtmr011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
